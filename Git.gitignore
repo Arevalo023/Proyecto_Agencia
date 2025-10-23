@@ -1,0 +1,17 @@
+# Compilados y carpetas de Eclipse
+/bin/
+/target/
+.settings/
+.classpath
+.project
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs y temporales
+*.log
+*.tmp
+
+# Configuración de usuario (no subir)
+*.iml
